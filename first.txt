@@ -1,0 +1,4 @@
+HELLO, THIS IS VERSION 1.0 OF MY PROJECT
+THIS IS THE UPDATED LINE,  FOR THE COMMIT EXAMPLE to go in commit2
+sorry, this is changed again, again and again.
+this is updated again, again changed
